@@ -170,7 +170,7 @@ if(mensaje!=null)
     <div class="col-lg-12">
         <div class="panel panel-default">
             <div class="panel-heading">
-                <center><strong>Incidencia</strong></center> 
+                <center><strong>Incidencias</strong></center> 
             </div>           
             			    
 			    <div>

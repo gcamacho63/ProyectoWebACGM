@@ -8,7 +8,7 @@
     }
 %>
 <body Background ="img/Fondo.png">
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-md-4 col-md-offset-4">
             <div class="login-panel panel panel-default">
@@ -20,7 +20,7 @@
                         <fieldset>
                             
                             <div class="form-group">
-                                 <center><img src="img/soporte.png" WIDTH=150 HEIGHT=150><br></center>
+                                 <center><img src="img/soporte.png" WIDTH=180 HEIGHT=180><br></center>
                                  <div id="divError" class="alert alert-danger" style="display:none">                               
                             	</div>                                
                                 <input class="form-control" placeholder="Usuario" name="txtUser" type="text" autofocus>
