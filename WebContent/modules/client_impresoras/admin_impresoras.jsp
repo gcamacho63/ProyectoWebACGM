@@ -237,7 +237,7 @@ if(mensaje!=null)
     <div class="col-lg-12">
         <div class="panel panel-default">
             <div class="panel-heading">
-               <center><strong>Administrar Impresoras</strong></center>
+               <center><strong>Administracion de Impresoras</strong></center>
             </div>           
             <div class="panel-body">			   		    
 			    <div>

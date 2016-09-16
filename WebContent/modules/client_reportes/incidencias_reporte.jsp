@@ -666,7 +666,7 @@ function cambiaForm(valor)
 			    		{
 			    		%>
 			    			<br><br>
-				    		<center><b>No hay registros</b></center>
+				    		<center><b>No hay registros en sistema</b></center>
 					    <%	
 			    		}					    			    	
 				    }
